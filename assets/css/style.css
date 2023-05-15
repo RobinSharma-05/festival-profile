@@ -497,6 +497,10 @@ nav {
     z-index: 4;
 }
 
+.mr-75 {
+    margin-right: 55px;
+}
+
 
 .grid-container {
     display: grid;
@@ -554,6 +558,10 @@ nav {
         opacity: 1;
         pointer-events: all;
         left: 0;
+    }
+
+    .mr-sm-0 {
+        margin-right: 0;
     }
 }
 
